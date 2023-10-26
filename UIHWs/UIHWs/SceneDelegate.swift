@@ -2,7 +2,7 @@
 //  SceneDelegate.swift
 //  UIHWs
 //
-//  Created by Сергей Ангелов on 17.10.2023.
+//  Created by Сергей Ангелов on 23.10.2023.
 //
 
 import UIKit
